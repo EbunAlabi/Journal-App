@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyJournal</string>
+    <string name="empty_list_text">No Records Yet</string>
+    <string name="add_record">Add Record</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="btn_update">UPDATE</string>
+    <string name="enter_desc">Enter Description</string>
+    <string name="btn_delete">DELETE</string>
+</resources>
